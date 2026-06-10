@@ -1,147 +1,108 @@
-# PRABUDDHA SAXENA
+<div align="center">
 
-### Full Stack Developer · ECE @ JIIT '28 · Noida, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" />
 
-I build products that combine software engineering, AI, and real-world problem solving. My interests lie in full-stack development, computer vision, and LLM-powered applications. I enjoy turning ideas into production-ready products and continuously exploring emerging technologies.
+# Sandeep Kumar Mishra
+### ECE Undergrad · Embedded Systems · Full-Stack · AI/ML
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sandeepkm45)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sandeep28092006@gmail.com)
+(* [![Location](https://img.shields.io/badge/Noida%2C%20India-333?style=flat&logo=googlemaps&logoColor=white)]() *)
 
-## 🚀 Tech Interests
-
-* Full Stack Development
-* Artificial Intelligence & LLMs
-* Computer Vision
-* Open Source
-* Data Structures & Algorithms
+</div>
 
 ---
 
-## 💻 Languages
+## About
 
-* C++
-* JavaScript
-* Python
-* HTML5
-* CSS3
-* SQL
+B.Tech ECE student at **JIIT Noida** (2024–2028) with a CGPA of **9.03/10**. I build things at the intersection of hardware and software —  I learn by doing, and I'm always working on something.
+
+Open to internships, collaborations, and interesting problems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend & Backend
+**Languages**
+`C` `C++` `Python` `JavaScript` `HTML5/CSS` `Embedded C`
 
-* React
-* Node.js
-* Express.js
-* MongoDB
-* Git
-* Postman
-* Vercel
+**Tools & Platforms**
+`Arduino` `MATLAB` `Proteus` `MySQL` `MS Office` `KiCad` `Multisim`
 
-### AI & Computer Vision
-
-* YOLOv8
-* OpenCV
-* LLaMA 3.3
-* RAG Pipelines
-* Groq API
-
-### Design & Tools
-
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
-* AutoCAD
+**Domains**
+`Embedded Systems` `Signal Processing` `Web Development` `Circuit Design`
 
 ---
 
-# Featured Projects
+## Projects
 
-## 01 · FactGuard — AI Scam Detection Platform
+### 🔧 Arduino Embedded Systems Suite
+> *May 2025 – Present*
 
-**March 2026**
-
-**Tech:** React · Node.js · LLaMA 3.3 70B · Groq · Tavily · RAG · PWA
-
-* Built a real-time fact-checking platform targeting fake news, phishing attacks, and KYC fraud.
-* Shipped four products in 24 hours from a unified backend:
-
-  * Web Application
-  * WhatsApp Bot
-  * Chrome Extension
-  * Progressive Web App
-* Reduced API usage by 80% through intelligent URL caching.
-* Resolved production token exhaustion issues to improve system reliability.
+A collection of hardware projects built around real-time sensor data:
+- **Obstacle Avoidance Robot** — ultrasonic sensor + motor control
+- **Temperature Monitoring System** — LM35 with live readout
+- **IR-based LED Control** — infrared module for proximity detection
 
 ---
 
-## 02 · Hardware Component Detector
+### 🗺️ Plan My Journey
+> *April – May 2025 · C++ · MySQL*
 
-**February 2026**
+Terminal-based travel planning application with full MySQL database integration.
+---
 
-**Tech:** YOLOv8 · OpenCV · Python
+### 💼 Freelancing Platform *(BitBox 5.0 Hackathon)*
+> *April 2025 · Team Project*
 
-* Developed an end-to-end computer vision pipeline for hardware component detection.
-* Created and manually annotated a custom dataset of 171 images.
-* Achieved 0.965 mAP@50 after 50 training epochs.
-* Implemented real-time webcam inference with significantly reduced false positives.
+Built a freelancing web platform under hackathon conditions. Focused on rapid development, team coordination, and shipping a working product end-to-end.
 
 ---
 
-## 03 · Mac OS Style Portfolio
+### 📒 Accounting Application
+> *In Progress*
 
-**June 2025**
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
-* Designed and developed a Mac OS-inspired portfolio website.
-* Implemented draggable windows and desktop-like interactions.
-* Built a custom animated starfield background using Canvas API.
-* Created realistic operating system behavior using vanilla JavaScript.
+Desktop accounting app to simplify financial record management — generates Journal Entries, Ledgers, and Trial Balance automatically.
 
 ---
 
-## 04 · Bitbox 5.0 Freelance Platform
+## Education
 
-**May 2025**
+| Institution | Qualification | Year | Score |
+|---|---|---|---|
+| JIIT Noida | B.Tech, ECE (ACT) | 2024–2028 | 9.03 CGPA |
+| Kendriya Vidyalaya Noida | Class XII | 2024 | 86% |
+| Kendriya Vidyalaya Noida | Class X | 2022 | 89.5% |
 
-**Tech:** HTML · CSS · JavaScript
-
-* Led a team of four developers to build a freelance marketplace.
-* Delivered the project within a four-week timeline.
-* Designed modular architecture that reduced redundant code by 25%.
-* Coordinated development and deployment workflows.
-
----
-
-# 📜 Certifications
-
-* McKinsey Forward Program (2025)
-* Qualcomm 5G Introduction (2025)
-* Adobe Graphic Design Certification (2025)
+(* **Relevant Coursework:** Telecommunication Engineering · Digital Signal Processing · Analog & Digital Communication · Signals & Systems · AI · Linear Algebra *)
 
 ---
 
-# 🏆 Milestones
+## Activities
 
-* ✅ Built and shipped an AI-powered scam detection platform
-* ✅ Trained a custom YOLOv8 model with 0.965 mAP@50
-* ✅ Led and deployed a cross-functional software product
-* ✅ Developed multiple MERN stack applications
-* ✅ Earned certifications from McKinsey, Qualcomm, and Adobe
-* ✅ Regularly practice DSA and contribute to open-source projects
+- 🤖 **Campus Robotics Club (μCR)** — 5 months volunteering; supported project builds, assisted workshops, helped coordinate events
+- 🏏 **Cricket** 
+- 🌐 **Languages** — Hindi · English · German *(limited)*
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-* LinkedIn
-* GitHub
-* Email
+<div align="center">
+
+![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkm45&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
 
 ---
 
-### Open to internships, collaborations, and exciting opportunities.
+<div align="center">
 
-*Last Updated: April 2026*
+*Currently building. Always learning.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+
+</div>
