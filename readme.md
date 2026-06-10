@@ -1,96 +1,264 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=150&section=header&text=Sandeep%20Kumar%20Mishra&fontSize=35&fontColor=ffffff" />
 
 # Sandeep Kumar Mishra
-### ECE Undergrad · Embedded Systems · Full-Stack · AI/ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sandeepkm45)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sandeep28092006@gmail.com)
+### Electronics & Communication Engineer
+
+### Embedded Systems • Wireless Communication • AI/ML • Web Developer • Circuit Designer 
+
+<p>
+<a href="https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sandeepkm45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sandeep28092006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkm45\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-B.Tech ECE student at **JIIT Noida** (2024–2028) with a CGPA of **9.03/10**. I build things at the intersection of hardware and software —  I learn by doing, and I'm always working on something.
+I am a **B.Tech Electronics & Communication Engineering (ACT)** student at **Jaypee Institute of Information Technology (JIIT), Noida**, graduating in 2028.
 
-Open to internships, collaborations, and interesting problems.
+My interests lie at the intersection of **Electronics, Embedded Systems, Communication Engineering, Artificial Intelligence, and Web Development**.
 
----
+I enjoy transforming theoretical concepts into practical systems, whether it is:
 
-## Tech Stack
+* Designing embedded hardware projects
+* Building communication system simulations
+* Developing intelligent wireless systems
+* Creating full-stack web applications
+* Exploring AI for signal processing and spectrum sensing
 
-**Languages**
-`C` `C++` `Python` `JavaScript` `HTML5/CSS` `Embedded C`
+🎯 Currently exploring:
 
-**Tools & Platforms**
-`Arduino` `MATLAB` `Proteus` `MySQL` `MS Office` `KiCad` `Multisim`
-
-**Domains**
-`Embedded Systems` `Signal Processing` `Web Development` `Circuit Design`
-
----
-
-## Projects
-
-### 🔧 Arduino Embedded Systems Suite
-> *May 2025 – Present*
-
-A collection of hardware projects built around real-time sensor data:
-- **Obstacle Avoidance Robot** — ultrasonic sensor + motor control
-- **Temperature Monitoring System** — LM35 with live readout
-- **IR-based LED Control** — infrared module for proximity detection
+* GNU Radio & Software Defined Radio (SDR)
+* Cognitive Radio Networks
+* AI-Based Spectrum Sensing
+* Embedded Linux & IoT
+* Machine Learning for Wireless Communication
 
 ---
 
-### 🗺️ Plan My Journey
-> *April – May 2025 · C++ · MySQL*
+# 🛠 Technical Skills
 
-Terminal-based travel planning application with full MySQL database integration.
+## Programming Languages
+
+```text
+C • C++ • Python • JavaScript • HTML • CSS • SQL • Embedded C
+```
+
+## Tools & Technologies
+
+```text
+Arduino IDE
+GNU Radio
+MATLAB & Simulink
+Proteus
+KiCad
+Multisim
+MySQL
+Git & GitHub
+MS Office
+```
+
+## Domains
+
+```text
+Embedded Systems
+Digital Communication
+Signal Processing
+Wireless Communication
+Circuit Design
+Robotics
+Web Development
+AI/ML
+```
+
 ---
 
-### 💼 Freelancing Platform *(BitBox 5.0 Hackathon)*
-> *April 2025 · Team Project*
+# 🚀 Featured Projects
 
-Built a freelancing web platform under hackathon conditions. 
+## 🤖 Arduino Embedded Systems Suite
+
+### May 2025 – Present
+
+A collection of real-time embedded system projects focused on sensor interfacing, automation, and control systems.
+
+### Key Projects
+
+#### Obstacle Avoidance Robot
+
+* Designed autonomous robot using ultrasonic sensors
+* Implemented real-time distance measurement
+* Motor driver based navigation system
+* Automatic obstacle detection and avoidance
+
+#### Temperature Monitoring System
+
+* Built using LM35 temperature sensor
+* Real-time temperature acquisition
+* LCD-based monitoring interface
+* Embedded C programming for data processing
+
+#### IR-Based Smart LED Controller
+
+* Infrared sensor based automation
+* Object detection and proximity sensing
+* Low-power embedded implementation
+
+**Technologies:** Arduino, Embedded C, Sensors, Motor Drivers
 
 ---
 
-### 📒 Accounting Application
-> *In Progress*
+## 📡 AI-Based Spectrum Sensing for Cognitive Radio
 
-Desktop accounting app to simplify financial record management — generates Journal Entries, Ledgers, and Trial Balance automatically.
+### Ongoing Research Project
+
+Developing an intelligent spectrum sensing framework capable of identifying spectrum occupancy in wireless communication systems.
+
+### Features
+
+* Signal acquisition and preprocessing
+* FFT-based feature extraction
+* Occupied/Free channel classification
+* AI-assisted decision making
+* Dynamic spectrum access concept
+
+### Tools
+
+* GNU Radio
+* Python
+* Machine Learning
+* Digital Signal Processing
+
+### Learning Areas
+
+* Cognitive Radio
+* Wireless Networks
+* SDR Systems
+* Spectrum Management
 
 ---
 
-## Education
+## 🌍 Plan My Journey
 
-| Institution | Qualification | Year | Score |
-|---|---|---|---|
-| JIIT Noida | B.Tech, ECE (ACT) | 2024–2028 | 9.03 CGPA |
-| Kendriya Vidyalaya Noida | Class XII | 2024 | 86% |
-| Kendriya Vidyalaya Noida | Class X | 2022 | 89.5% |
+### C++ + MySQL
+
+A console-based travel planning application inspired by booking platforms.
+
+### Features
+
+* Passenger Registration
+* Source & Destination Selection
+* Route Management
+* Fare Calculation
+* Booking Information Storage
+* Database Integration
+
+### Concepts Used
+
+* OOP
+* File Handling
+* MySQL Connectivity
+* STL Vectors
 
 ---
 
-## Activities
+## 💼 Freelancing Platform
 
-- 🤖 **Campus Robotics Club (μCR)** — 5 months volunteering; supported project builds, assisted workshops, helped coordinate events
-- 🏏 **Cricket** 
-- 🌐 **Languages** — Hindi · English · German *(limited)*
+### BitBox 5.0 Hackathon Project
+
+A commission-free freelancing platform designed for students and independent professionals.
+
+### Features
+
+* User Authentication
+* Job Posting
+* Freelancer Profiles
+* Direct Client Interaction
+* No Platform Commission
+
+### Technologies
+
+HTML • CSS • JavaScript • Database Integration
 
 ---
 
-## GitHub Stats
+## 📊 Accounting Management System
+
+### In Development
+
+Desktop application for automated accounting workflows.
+
+### Features
+
+* Journal Entries
+* Ledger Generation
+* Trial Balance Creation
+* Financial Statement Preparation
+* Error Reduction through Automation
+
+---
+
+# 🎓 Education
+
+| Institution              | Qualification    | Performance   |
+| ------------------------ | ---------------- | ------------- |
+| JIIT Noida               | B.Tech ECE (ACT) | CGPA: 9.03/10 |
+| Kendriya Vidyalaya Noida | Class XII        | 86%           |
+| Kendriya Vidyalaya Noida | Class X          | 89.5%         |
+
+---
+
+# 🏆 Achievements
+
+* Silver Badge in C Programming (HackerRank)
+* Active Member of μCR Robotics Club
+* Participated in BitBox 5.0 Hackathon
+
+---
+
+# 🌱 Extracurricular Activities
+
+### μCR Robotics Club
+
+* Assisted hardware project development
+* Conducted technical workshops
+* Supported event coordination
+* Collaborated on robotics activities
+
+### Sports
+
+🏏 Cricket Enthusiast
+
+### Languages
+
+* Hindi (Native)
+* English (Professional)
+* German (Basic)
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkm45&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkm45&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -98,8 +266,10 @@ Desktop accounting app to simplify financial record management — generates Jou
 
 <div align="center">
 
-*Currently building. Always learning.*
+### "Building intelligent systems by combining Electronics, Communication, and Software."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
