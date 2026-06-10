@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sandeepkm45)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sandeep28092006@gmail.com)
-(* [![Location](https://img.shields.io/badge/Noida%2C%20India-333?style=flat&logo=googlemaps&logoColor=white)]() *)
 
 </div>
 
@@ -56,7 +55,7 @@ Terminal-based travel planning application with full MySQL database integration.
 ### 💼 Freelancing Platform *(BitBox 5.0 Hackathon)*
 > *April 2025 · Team Project*
 
-Built a freelancing web platform under hackathon conditions. Focused on rapid development, team coordination, and shipping a working product end-to-end.
+Built a freelancing web platform under hackathon conditions. 
 
 ---
 
@@ -74,8 +73,6 @@ Desktop accounting app to simplify financial record management — generates Jou
 | JIIT Noida | B.Tech, ECE (ACT) | 2024–2028 | 9.03 CGPA |
 | Kendriya Vidyalaya Noida | Class XII | 2024 | 86% |
 | Kendriya Vidyalaya Noida | Class X | 2022 | 89.5% |
-
-(* **Relevant Coursework:** Telecommunication Engineering · Digital Signal Processing · Analog & Digital Communication · Signals & Systems · AI · Linear Algebra *)
 
 ---
 
