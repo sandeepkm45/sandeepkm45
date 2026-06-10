@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=150&section=header&text=Sandeep%20Kumar%20Mishra&fontSize=35&fontColor=ffffff" />
 
-# Sandeep Kumar Mishra
 
 ### Electronics & Communication Engineer
 
