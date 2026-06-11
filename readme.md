@@ -38,7 +38,6 @@ I enjoy transforming theoretical concepts into practical systems, whether it is:
 * Designing embedded hardware projects
 * Building communication system simulations
 * Developing intelligent wireless systems
-* Creating full-stack web applications
 * Exploring AI for signal processing and spectrum sensing
 
 🎯 Currently exploring:
@@ -98,13 +97,6 @@ A collection of real-time embedded system projects focused on sensor interfacing
 
 ### Key Projects
 
-#### Obstacle Avoidance Robot
-
-* Designed autonomous robot using ultrasonic sensors
-* Implemented real-time distance measurement
-* Motor driver based navigation system
-* Automatic obstacle detection and avoidance
-
 #### Temperature Monitoring System
 
 * Built using LM35 temperature sensor
@@ -162,16 +154,17 @@ A console-based travel planning application inspired by booking platforms.
 
 * Passenger Registration
 * Source & Destination Selection
-* Route Management
+* Flight/Railway/Bus/Hotel Booking
 * Fare Calculation
 * Booking Information Storage
 * Database Integration
+* Admin Panel
 
 ### Concepts Used
 
 * OOP
 * File Handling
-* MySQL Connectivity
+* MySQL Database
 * STL Vectors
 
 ---
@@ -192,7 +185,7 @@ A commission-free freelancing platform designed for students and independent pro
 
 ### Technologies
 
-HTML • CSS • JavaScript • Database Integration
+HTML • CSS • JavaScript 
 
 ---
 
