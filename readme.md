@@ -2,255 +2,86 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=150&section=header&text=Sandeep%20Kumar%20Mishra&fontSize=35&fontColor=ffffff" />
 
-
 ### Electronics & Communication Engineer
-
-### Embedded Systems • Wireless Communication • AI/ML • Web Developer • Circuit Designer 
+### Embedded Systems • Wireless Communication • AI/ML • Web Dev
 
 <p>
 <a href="https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/sandeepkm45">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:sandeep28092006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sandeepkm45\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkm45&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **B.Tech Electronics & Communication Engineering (ACT)** student at **Jaypee Institute of Information Technology (JIIT), Noida**, graduating in 2028.
+B.Tech ECE (ACT) student at **JIIT Noida**, Class of 2028. I build at the intersection of **Embedded Systems, Wireless Communication, and AI/ML** — turning signal-processing theory into working hardware and software.
 
-My interests lie at the intersection of **Electronics, Embedded Systems, Communication Engineering, Artificial Intelligence, and Web Development**.
-
-I enjoy transforming theoretical concepts into practical systems, whether it is:
-
-* Designing embedded hardware projects
-* Building communication system simulations
-* Developing intelligent wireless systems
-* Exploring AI for signal processing and spectrum sensing
-
-🎯 Currently exploring:
-
-* GNU Radio & Software Defined Radio (SDR)
-* Cognitive Radio Networks
-* AI-Based Spectrum Sensing
-* Embedded Linux & IoT
-* Machine Learning for Wireless Communication
+🎯 **Currently exploring:** GNU Radio & SDR • Cognitive Radio • AI-based Spectrum Sensing • Embedded Linux/IoT • ML for Wireless Comms
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
-## Programming Languages
-
-```text
-C • C++ • Python • JavaScript • HTML • CSS • SQL • Embedded C
-```
-
-## Tools & Technologies
-
-```text
-Arduino IDE
-GNU Radio
-MATLAB & Simulink
-Proteus
-KiCad
-Multisim
-MySQL
-Git & GitHub
-MS Office
-```
-
-## Domains
-
-```text
-Embedded Systems
-Digital Communication
-Signal Processing
-Wireless Communication
-Circuit Design
-Robotics
-Web Development
-AI/ML
-```
+**Languages:** C • C++ • Python • JavaScript • Embedded C • SQL • HTML/CSS
+**Tools:** Arduino IDE • GNU Radio • MATLAB/Simulink • Proteus • KiCad • Multisim • Git/GitHub • MySQL
+**Domains:** Embedded Systems • Digital Communication • Signal Processing • Wireless Comms • Circuit Design • AI/ML • Web Dev
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 Arduino Embedded Systems Suite
+**🤖 Arduino Embedded Systems Suite** *(May 2025–Present)*
+Real-time sensor/automation projects — LM35 temperature monitor with LCD readout, IR-based smart LED controller. `Arduino · Embedded C · Sensors`
 
-### May 2025 – Present
+**📡 AI-Based Spectrum Sensing for Cognitive Radio** *(Ongoing)*
+FFT-based feature extraction + ML classification for occupied/free channel detection in an SDR pipeline. `GNU Radio · Python · ML · DSP`
 
-A collection of real-time embedded system projects focused on sensor interfacing, automation, and control systems.
+**🌍 Plan My Journey**
+Console-based multi-modal travel booking app with fare calculation and admin panel. `C++ · MySQL · OOP · STL`
 
-### Key Projects
+**💼 Freelancing Platform** — *BitBox 5.0 Hackathon*
+Commission-free freelancing platform with auth, job postings, and direct client interaction. `HTML · CSS · JavaScript`
 
-#### Temperature Monitoring System
-
-* Built using LM35 temperature sensor
-* Real-time temperature acquisition
-* LCD-based monitoring interface
-* Embedded C programming for data processing
-
-#### IR-Based Smart LED Controller
-
-* Infrared sensor based automation
-* Object detection and proximity sensing
-* Low-power embedded implementation
-
-**Technologies:** Arduino, Embedded C, Sensors, Motor Drivers
+**📊 Accounting Management System** *(In Development)*
+Desktop app automating journal entries, ledgers, trial balance, and financial statements.
 
 ---
 
-## 📡 AI-Based Spectrum Sensing for Cognitive Radio
+## 🎓 Education
 
-### Ongoing Research Project
-
-Developing an intelligent spectrum sensing framework capable of identifying spectrum occupancy in wireless communication systems.
-
-### Features
-
-* Signal acquisition and preprocessing
-* FFT-based feature extraction
-* Occupied/Free channel classification
-* AI-assisted decision making
-* Dynamic spectrum access concept
-
-### Tools
-
-* GNU Radio
-* Python
-* Machine Learning
-* Digital Signal Processing
-
-### Learning Areas
-
-* Cognitive Radio
-* Wireless Networks
-* SDR Systems
-* Spectrum Management
+| Institution | Qualification | Score |
+|---|---|---|
+| JIIT Noida | B.Tech ECE (ACT) | CGPA 9.03/10 |
+| Kendriya Vidyalaya Noida | Class XII | 86% |
+| Kendriya Vidyalaya Noida | Class X | 89.5% |
 
 ---
 
-## 🌍 Plan My Journey
+## 🏆 Achievements & Activities
 
-### C++ + MySQL
-
-A console-based travel planning application inspired by booking platforms.
-
-### Features
-
-* Passenger Registration
-* Source & Destination Selection
-* Flight/Railway/Bus/Hotel Booking
-* Fare Calculation
-* Booking Information Storage
-* Database Integration
-* Admin Panel
-
-### Concepts Used
-
-* OOP
-* File Handling
-* MySQL Database
-* STL Vectors
+- 🥈 Silver Badge, C Programming (HackerRank)
+- 🤖 Active member, μCR Robotics Club — hardware projects, workshops, event coordination
+- 🏆 BitBox 5.0 Hackathon participant
+- 🏏 Cricket enthusiast
+- 🗣 Hindi (Native) • English (Professional) • German (Basic)
 
 ---
 
-## 💼 Freelancing Platform
-
-### BitBox 5.0 Hackathon Project
-
-A commission-free freelancing platform designed for students and independent professionals.
-
-### Features
-
-* User Authentication
-* Job Posting
-* Freelancer Profiles
-* Direct Client Interaction
-* No Platform Commission
-
-### Technologies
-
-HTML • CSS • JavaScript 
-
----
-
-## 📊 Accounting Management System
-
-### In Development
-
-Desktop application for automated accounting workflows.
-
-### Features
-
-* Journal Entries
-* Ledger Generation
-* Trial Balance Creation
-* Financial Statement Preparation
-* Error Reduction through Automation
-
----
-
-# 🎓 Education
-
-| Institution              | Qualification    | Performance   |
-| ------------------------ | ---------------- | ------------- |
-| JIIT Noida               | B.Tech ECE (ACT) | CGPA: 9.03/10 |
-| Kendriya Vidyalaya Noida | Class XII        | 86%           |
-| Kendriya Vidyalaya Noida | Class X          | 89.5%         |
-
----
-
-# 🏆 Achievements
-
-* Silver Badge in C Programming (HackerRank)
-* Active Member of μCR Robotics Club
-* Participated in BitBox 5.0 Hackathon
-
----
-
-# 🌱 Extracurricular Activities
-
-### μCR Robotics Club
-
-* Assisted hardware project development
-* Conducted technical workshops
-* Supported event coordination
-* Collaborated on robotics activities
-
-### Sports
-
-🏏 Cricket Enthusiast
-
-### Languages
-
-* Hindi (Native)
-* English (Professional)
-* German (Basic)
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true"/>
-
-
 </div>
 
 ---
