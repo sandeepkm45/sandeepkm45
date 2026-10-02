@@ -82,7 +82,7 @@ B.Tech ECE (ACT) student at **JIIT Noida** (Batch 2024–2028, CGPA **9.03/10**)
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap"/>
+<img height="170" src="https://leetcard.jacoblin.cool/Ysandeepkm0045?theme=dark&font=Karla&ext=heatmap"/>
 </div>
 
 ---
