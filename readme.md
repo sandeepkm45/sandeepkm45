@@ -7,12 +7,12 @@
 
 <p>
 <a href="https://www.linkedin.com/in/sandeep-kumar-mishra-7628b6308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sandeepkm45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/sandeepkm0045"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:sandeep28092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sandeepkm0045/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sandeepkm45&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkm0045&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -81,8 +81,8 @@ B.Tech ECE (ACT) student at **JIIT Noida** (Batch 2024–2028, CGPA **9.03/10**)
 ## 📈 Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeepkm45&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://leetcard.jacoblin.cool/Ysandeepkm0045?theme=dark&font=Karla&ext=heatmap"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeepkm0045&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://leetcard.jacoblin.cool/sandeepkm0045?theme=dark&font=Karla&ext=heatmap"/>
 </div>
 
 ---
